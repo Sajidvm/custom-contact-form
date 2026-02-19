@@ -1,4 +1,4 @@
-# Custom Contact Form Pro
+# Custom Contact Form
 
 A streamlined, AJAX-powered inquiry system for WordPress. This plugin provides a professional interface for lead capture and includes a backend management system with CSV export capabilities.
 
